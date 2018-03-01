@@ -1,1 +1,3 @@
-# ENGnet
+# ENGnet: End-to-end Neural Geometry for Robust Depth and Pose Estimation using Convolutional Neural Networks
+
+We present an approach to jointly predicting pose and depth using a CNN that outperforms all previous approaches. We introduce a novel architecture that predicts depths and relative pose in a unified framework, from adjacent frames. We achieve state-of-the-art performance on the task of single image depth estimation, for popular indoor and outdoor datasets with a common architecture. We show both qualitatively and quantitatively that a joint approach to solving for depth and pose leads to greatly improved performance on each task.
